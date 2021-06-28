@@ -35,3 +35,4 @@ C:\Users\jvanh\source\repos\go2806\obj\Debug\netcoreapp3.1\go2806.dll
 C:\Users\jvanh\source\repos\go2806\obj\Debug\netcoreapp3.1\go2806.pdb
 C:\Users\jvanh\source\repos\go2806\obj\Debug\netcoreapp3.1\go2806.genruntimeconfig.cache
 C:\Users\jvanh\source\repos\go2806\obj\Debug\netcoreapp3.1\go2806.csproj.CopyComplete
+C:\Users\jvanh\source\repos\go2806\obj\Debug\netcoreapp3.1\Razor\Views\Home\_partialNavtabs.cshtml.g.cs
